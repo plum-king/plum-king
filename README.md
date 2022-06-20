@@ -1,7 +1,9 @@
+
 <div align="center">
+  
   </br>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plum-king&show_icons=true&theme=dracula) 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plum-king&show_icons=true&theme=vue) 
     
   </br>
   
@@ -9,7 +11,7 @@
   
   </br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plum-king&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
