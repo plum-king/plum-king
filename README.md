@@ -12,8 +12,6 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sue5116)](https://solved.ac/sue5116)
   
   </br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plum-king&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 
 </div>
