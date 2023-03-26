@@ -3,9 +3,9 @@
   
   <h3> Hi there ❗👋</h3>
   
-  [![Tidal](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tidal&logoColor=white)](https://wangcompany.tistory.com/)
-<a href="https://blog.naver.com/jeesoo0908" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/jeesoo0908@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  [![Tidal](https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tidal&logoColor=white)](https://wangcompany.tistory.com/)
+<a href="https://blog.naver.com/jeesoo0908" target="_blank"><img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 	
   <br>
   
