@@ -37,6 +37,13 @@
 <div align=center>
 	<br>
   
+  |제목|내용|설명|
+|:---:|:---:|:---:|
+|Crystal Gallery|아마추어 작가들을 위한 모의 경매 서비스|2021.07.01~2021.08.13|
+|COIN|코딩 공부용 자기 관리 시스템|2021.07.01~2021.08.19|
+|Crsytal Gallery v2.0|아마추어 작가들을 위한 모의 경매 서비스 v2.0|2022.01.09~2022.02.19|
+  
+  
   <h3>🍀 Github 🍀</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plum-king&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=plum-king&show_icons=true">
