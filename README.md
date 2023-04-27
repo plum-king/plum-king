@@ -50,7 +50,6 @@
 |<a href="https://github.com/plum-king/Meow">Meow</a>|SNS 형태의 맛집 추천 서비스|22.03.28 ~ 22.06.19|NodeJS, EJS|
 |<a href="https://github.com/plum-king/ComHomeServer">ComHome</a>|컴퓨터공학과 홈페이지 개선을 위한 프로젝트|22.07.04 ~ 22.08.18|NodeJS, ReactJS|
 |<a href="https://play.google.com/store/apps/details?id=com.gdjang.consumer_client">공동장</a>|일회용 쓰레기 배출량을 축소하기 위한 공동 구매 플랫폼|22.03.03 ~ 23.03.31|NodeJS, Android Studio(JAVA)|
-|Match? Zatch!|자취생들을 위한 물건 교환 플랫폼|22.10. 04 ~ |Spring, Swift|
 
 </div>
 <br>
