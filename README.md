@@ -27,7 +27,6 @@
 	<img src="http://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django" />
 	<img src="http://img.shields.io/badge/-Docker-2496ED?style=flat-square" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-  <img src="http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
   <img src="http://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />
   	<br>
       <img src="http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white" />
