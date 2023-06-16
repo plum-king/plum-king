@@ -1,6 +1,6 @@
 <div>
 	
-<h2> Hi there 👋 I'm Jisoo Hwang 👩‍💻</h2>
+<h2 align="center"> Hi there 👋 I'm Jisoo Hwang 👩‍💻</h2>
 	
 <h3>💭 Want to be.. </h3>
 Backend Developer
