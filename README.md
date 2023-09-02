@@ -58,7 +58,6 @@ __2023__
 |<a href="https://github.com/plum-king/Meow">Meow</a>|SNS 형태의 맛집 추천 서비스|22.03.28 ~ 22.06.19|NodeJS|
 |<a href="https://github.com/plum-king/ComHomeServer">ComHome</a>|컴퓨터공학과 홈페이지 개선을 위한 프로젝트|22.07.04 ~ 22.08.18|NodeJS|
 |<a href="https://play.google.com/store/apps/details?id=com.gdjang.consumer_client">공동장</a>|일회용 쓰레기 배출량을 축소하기 위한 공동 구매 플랫폼|22.03.03 ~ 23.03.31|NodeJS|
-|<a href="https://github.com/plum-king/Zatch_Server">Zatch</a>|자취생을 위한 물물교환 플랫폼|22.09.01~|Spring boot|
 
 <h3>🎓 Education </h3>
 
