@@ -22,6 +22,10 @@ __2023__
 - SK Lookie 7기
 - 안랩 클라우드서비스팀 인턴 (5개월)
 - Microsoft Learn Student Ambassador
+
+__2024__
+- Microsoft Learn Student Ambassador
+- DevOcean 3기
 	
 <h3>📚 Tech Stack </h3>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
