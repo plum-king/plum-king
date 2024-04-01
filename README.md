@@ -26,6 +26,7 @@ __2023__
 __2024__
 - Microsoft Learn Student Ambassador
 - DevOcean Young 3기
+- UMC 6기 SpringBoot
 	
 <h3>📚 Tech Stack </h3>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
