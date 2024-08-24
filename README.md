@@ -46,8 +46,6 @@ __2024__
   <img src="http://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />
   	<br>
       <img src="http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" />
-  <img src="http://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white" />
   <img src="http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white" />
   <img src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
 		<br>
