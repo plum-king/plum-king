@@ -63,7 +63,9 @@ __2024__
 |<a href="https://github.com/plum-king/Meow">Meow</a>|SNS 형태의 맛집 추천 서비스|22.03.28 ~ 22.06.19|NodeJS|
 |<a href="https://github.com/plum-king/ComHomeServer">ComHome</a>|컴퓨터공학과 홈페이지 개선을 위한 프로젝트|22.07.04 ~ 22.08.18|NodeJS|
 |<a href="https://github.com/plum-king/consumer_server">공동장</a>|일회용 쓰레기 배출량을 축소하기 위한 공동 구매 플랫폼|22.03.03 ~ 23.03.31|NodeJS|
+|DIMO|자아 실현의 수단이 된 덕질, MBTI를 통해 과몰입해보자!|23.03.01 ~ |NodeJS|
 |<a href="https://github.com/plum-king/SukBakJi-Server">석박지</a>|석사, 박사, 지원부터 취업정보까지! 대학원생을 위한 애플리케이션|24.07.17 ~ 24.08.23|SpringBoot|
+|피넛|금융 초등생에게 다양한 기능을 통해 경제 지식을 알려줄 수 있는 금융 교육 플랫폼|24.06.01 ~ |SpringBoot|
 
 <h3>🎓 Education </h3>
 
